@@ -1,0 +1,31 @@
+body {
+    background: #333444;
+    color: red;
+}
+.bpink {
+    background: #111244 !important;
+}
+.cred {
+    color: #814c81df !important;
+    text-shadow: #2853a8;
+}
+
+.flexRow {
+    display:flex;
+    flex-direction: row;
+    align-items: middle;
+    justify-content: middle;
+}
+
+.absolute {
+    position:absolute;
+    top: 28px;
+    font-size:38px;
+    left: 30px;
+    color: white;
+    text-shadow: 1px 1px #558abb;
+}
+
+input {
+    margin: 5px;
+}
